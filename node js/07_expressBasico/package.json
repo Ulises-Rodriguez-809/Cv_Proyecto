@@ -1,0 +1,16 @@
+{
+  "name": "07_expressbasico",
+  "version": "1.0.0",
+  "description": "Conceptos basicos de Express JS",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Yo",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
